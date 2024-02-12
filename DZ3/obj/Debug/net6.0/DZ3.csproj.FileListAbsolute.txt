@@ -1,0 +1,15 @@
+E:\GeekBrains\Recursia\DZ3\obj\Debug\net6.0\DZ3.csproj.AssemblyReference.cache
+E:\GeekBrains\Recursia\DZ3\obj\Debug\net6.0\DZ3.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\Recursia\DZ3\obj\Debug\net6.0\DZ3.AssemblyInfoInputs.cache
+E:\GeekBrains\Recursia\DZ3\obj\Debug\net6.0\DZ3.AssemblyInfo.cs
+E:\GeekBrains\Recursia\DZ3\obj\Debug\net6.0\DZ3.csproj.CoreCompileInputs.cache
+E:\GeekBrains\Recursia\DZ3\bin\Debug\net6.0\DZ3.exe
+E:\GeekBrains\Recursia\DZ3\bin\Debug\net6.0\DZ3.deps.json
+E:\GeekBrains\Recursia\DZ3\bin\Debug\net6.0\DZ3.runtimeconfig.json
+E:\GeekBrains\Recursia\DZ3\bin\Debug\net6.0\DZ3.dll
+E:\GeekBrains\Recursia\DZ3\bin\Debug\net6.0\DZ3.pdb
+E:\GeekBrains\Recursia\DZ3\obj\Debug\net6.0\DZ3.dll
+E:\GeekBrains\Recursia\DZ3\obj\Debug\net6.0\refint\DZ3.dll
+E:\GeekBrains\Recursia\DZ3\obj\Debug\net6.0\DZ3.pdb
+E:\GeekBrains\Recursia\DZ3\obj\Debug\net6.0\DZ3.genruntimeconfig.cache
+E:\GeekBrains\Recursia\DZ3\obj\Debug\net6.0\ref\DZ3.dll
